@@ -46,6 +46,7 @@
 6. Ejecutar [run.py](run.py) en consola y completar las preguntas propuestas.
 
 ![first_console](https://user-images.githubusercontent.com/90936639/154614720-5f06e3e7-7601-46ac-95a2-50ae097244fb.png)
+
 7. Al final de la ejecución se nos mostrará el reporte en forma de tabla con todos los hoteles que cumplieron con los criterios de búsqueda.
 
 
