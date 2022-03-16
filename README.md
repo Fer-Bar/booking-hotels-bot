@@ -38,7 +38,7 @@
     ```
     En Unix o MacOS, ejecutando:
     ```
-    source tutorial-env/bin/activate
+    source venv/bin/activate
     ```   
 3. Instala las depedencias `pip install -r requirements.txt`
 4. Reemplaza la variable `driver_path` del archivo [booking.py](booking.py) con la ruta donde se encuentra su driver instalado.
